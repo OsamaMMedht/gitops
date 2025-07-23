@@ -1,0 +1,5 @@
+# Ignore transient lock info files created by terraform apply
+.terraform.lock.hcl
+.terraform
+.terraform.tfstate
+keys.json
